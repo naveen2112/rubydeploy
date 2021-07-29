@@ -1,6 +1,6 @@
-rvm install "ruby-2.6.4"
+rvm install "ruby-2.6.7"
 
-gem install bundler:2.1.4
+gem install bundler:2.2.21
 
 bundle install
 

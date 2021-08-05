@@ -8,10 +8,10 @@ Things you may want to cover:
 * Ruby version
 ruby-2.6.7
 
-*Bundler version
+* Bundler version
 bundler 2.2.21
 
-*Commands to install ruby & Bundler
+* Commands to install ruby & Bundler
 rvm install "ruby-2.6.7"
 gem install bundler:2.2.21
 

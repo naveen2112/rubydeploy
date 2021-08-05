@@ -6,19 +6,15 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+ruby-2.6.7
 
-* System dependencies
+*Bundler version
+bundler 2.2.21
 
-* Configuration
+*Commands to install ruby & Bundler
+rvm install "ruby-2.6.7"
+gem install bundler:2.2.21
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deployment instructions in local
+bundle install
+rails s

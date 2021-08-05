@@ -30,3 +30,19 @@ Things you may want to cover:
   ```sh
   rails s
   ```
+* Environment variables
+  ```sh
+  DB_NAME
+  ```
+  ```sh
+  DB_USERNAME
+  ```
+  ```sh
+  DB_PASSWORD
+  ```
+  ```sh
+  DB_HOSTNAME
+  ```
+  ```sh
+  DB_PORT
+  ```
